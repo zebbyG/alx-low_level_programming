@@ -59,4 +59,4 @@ Write a function that compares two strings and returns 1 if the strings can be c
 
 - Prototype: int wildcmp(char *s1, char *s2);
 - s2 can contain the special character *.
-- The special char * can replace any string (including an empty string) 
+- The special char * can replace any string (including an empty string)  

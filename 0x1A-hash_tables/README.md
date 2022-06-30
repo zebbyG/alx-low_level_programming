@@ -78,3 +78,6 @@ Write a function that deletes a hash table.
     - Should print the hash tables key/value pairs in reverse order using the sorted linked list
 - `void shash_table_delete(shash_table_t *ht);`
 - You are allowed to have more than 5 functions in your file
+
+
+<a href="https://github.com/zebbyG?tab=repositories">zebbyG</a>

@@ -38,7 +38,7 @@ Write a function that adds an element to the hash table.
 - Returns: `1` if it succeeded, `0` otherwise
 - In case of collision, add the new node at the beginning of the list
 
-### [4. >>> ht['betty'](4-hash_table_get.c)
+### [TASK 4](4-hash_table_get.c)
 
 Write a function that retrieves a value associated with a key.
 
